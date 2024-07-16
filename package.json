@@ -1,0 +1,37 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@turf/buffer": "^6.5.0",
+    "@turf/collect": "^6.5.0",
+    "@turf/turf": "^6.5.0",
+    "@types/d3": "^7.4.3",
+    "axios": "^1.6.8",
+    "d3": "^7.8.5",
+    "d3-sankey": "^0.12.3",
+    "d3-simple-slider": "^2.0.0",
+    "echarts": "^5.5.0",
+    "element-plus": "^2.6.0",
+    "leaflet": "^1.9.4",
+    "leaflet-mouse-position": "^1.2.0",
+    "pinia": "^2.1.7",
+    "turf": "^3.0.14",
+    "vue": "^3.4.15",
+    "vue-leaflet": "^0.1.0",
+    "vue-router": "^4.2.5",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/d3-sankey": "^0.12.4",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11"
+  }
+}

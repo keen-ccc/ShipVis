@@ -1,0 +1,48 @@
+{
+    "nodes":[
+        {"name":"","color":"#909090"},
+        {"name":"刺网","color":"#909090"},
+        {"name":"拖网","color":"#909090"},
+        {"name":"围网","color":"#909090"},
+        {"name":"0-5d","color":"#909090"},
+        {"name":"6-10d","color":"#909090"},
+        {"name":"11-15d","color":"#909090"},
+        {"name":">=16d","color":"#909090"},
+        {"name":"<100km","color":"#909090"},
+        {"name":"100-200km","color":"#909090"},
+        {"name":">200km","color":"#909090"}
+
+    ],
+    "links":[
+        {"source":0,"target":1,"value":358},
+        {"source":0,"target":2,"value":261},
+        {"source":0,"target":3,"value":582},
+
+        {"source":1,"target":4,"value":218},
+        {"source":1,"target":5,"value":77},
+        {"source":1,"target":6,"value":29},
+        {"source":1,"target":7,"value":34},
+        {"source":2,"target":4,"value":156},
+        {"source":2,"target":5,"value":70},
+        {"source":2,"target":6,"value":28},
+        {"source":2,"target":7,"value":6},
+        {"source":3,"target":4,"value":206},
+        {"source":3,"target":5,"value":190},
+        {"source":3,"target":6,"value":160},
+        {"source":3,"target":7,"value":26},
+
+        {"source":4,"target":8,"value":101},
+        {"source":4,"target":9,"value":280},
+        {"source":4,"target":10,"value":199},
+        {"source":5,"target":8,"value":20},
+        {"source":5,"target":9,"value":105},
+        {"source":5,"target":10,"value":212},
+        {"source":6,"target":8,"value":2},
+        {"source":6,"target":9,"value":25},
+        {"source":6,"target":10,"value":190},
+        {"source":7,"target":8,"value":3},
+        {"source":7,"target":9,"value":25},
+        {"source":7,"target":10,"value":39}
+
+    ]
+}
